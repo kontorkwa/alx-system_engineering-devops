@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la /current_working_directory /parent_working_directory /boot
