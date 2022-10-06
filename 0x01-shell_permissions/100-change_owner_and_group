@@ -1,2 +1,2 @@
 #!/bin/bash
-chown sudo incent:staff .
+chown vincent:staff */
