@@ -1,0 +1,2 @@
+#!/bin/bash
+cp /current_working_directory/*.html /root
